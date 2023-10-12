@@ -6,9 +6,6 @@ author_profile: true
 redirect_from: 
   - /research/
   - /research.html
-header:
-  image: /images/Hyades.jpg
-  caption: The Hyades cluster. Image Jose Mtanous 
 ---
 
 
