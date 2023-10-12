@@ -1,8 +1,15 @@
 ---
+permalink: /
 title: "Talks"
-permalink: /talks/
+excerpt: "talks"
+author_profile: true
+redirect_from: 
+  - /talks/
+  - /talks
+header:
+    image: 
+    caption: 
 ---
-
 
 Invited talks
 ---

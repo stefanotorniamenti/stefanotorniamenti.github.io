@@ -1,11 +1,14 @@
 ---
-permalink: /research/
+permalink: /
 title: "Research"
-excerpt: 
+excerpt: "research"
 author_profile: true
 redirect_from: 
   - /research/
-  - /research.html
+  - /research
+header:
+    image: 
+    caption: 
 ---
 
 
