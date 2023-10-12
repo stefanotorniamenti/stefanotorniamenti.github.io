@@ -3,9 +3,6 @@ permalink: /
 title: "Links"
 excerpt: "links"
 author_profile: true
-redirect_from: 
-  - /links/
-  - /links
 header:
     image: 
     caption: 

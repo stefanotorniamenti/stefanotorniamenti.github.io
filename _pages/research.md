@@ -3,9 +3,6 @@ permalink: /
 title: "Research"
 excerpt: "research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research
 header:
     image: 
     caption: 
