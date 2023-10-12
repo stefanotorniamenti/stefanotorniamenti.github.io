@@ -7,7 +7,7 @@ redirect_from:
   - /research/
   - /research.html
 header:
-  image: [/images/Hyades.jpg](https://www.forbes.com/sites/jamiecartereurope/2023/09/13/closest-black-holes-are-right-in-front-of-our-eyes-say-scientists/)
+  image: /images/Hyades.jpg
   caption: Black holes in the Hyades clusters? Image Jose Mtanous 
 ---
 
