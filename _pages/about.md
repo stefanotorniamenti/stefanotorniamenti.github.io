@@ -1,14 +1,26 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+    image: 
+    caption: 
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+
+I’m a postdoctoral researcher at the University of Padova, working on the topics of stellar dynamics, black holes, and gravitational-wave astronomy. 
+I'm curious to understand how these black holes interact with their surroundings and influence the evolution of their stellar cluster. Also, I investigate the formation of gravitational-wave sources in dense stellar environments.
+
+
+I completed my PhD in Astronomy (April 2023) at the University of Padova, Italy, under the supervision of Prof. Michela Mapelli in the DEMOBLACK group. At this [link](/files/PhD_Thesis_Revised.pdf) you can find my PhD thesis.
+Before that, I carried out my Bachelor and Master in Physics at the University of Milan, Italy, under the supervision of Prof. Giuseppe Bertin.
+
+
 
 A data-driven personal website
 ======
