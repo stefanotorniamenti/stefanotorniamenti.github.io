@@ -8,7 +8,7 @@ redirect_from:
   - /research.html
 header:
   image: /images/Hyades.jpg
-  caption: Black holes in the Hyades clusters? Image Jose Mtanous 
+  caption: The Hyades cluster. Image Jose Mtanous 
 ---
 
 
