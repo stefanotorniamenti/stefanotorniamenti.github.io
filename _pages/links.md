@@ -17,7 +17,7 @@ Theses
 
 At this [link](/files/PhD_Thesis.pdf) you can find my PhD thesis.
 
-At this [link](/files/Master_Thesis.pdf) you can find my PhD thesis.
+At this [link](/files/Master_Thesis.pdf) you can find my Master thesis.
 
 
 Press
