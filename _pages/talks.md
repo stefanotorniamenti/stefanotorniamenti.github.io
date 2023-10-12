@@ -3,12 +3,6 @@ permalink: /talks/
 title: "Talks"
 excerpt: "talks"
 author_profile: true
-redirect_from: 
-  - /talks/
-  - /talks
-header:
-    image: 
-    caption: 
 ---
 
 Invited talks
