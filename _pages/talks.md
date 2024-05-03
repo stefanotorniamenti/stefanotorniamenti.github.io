@@ -8,6 +8,10 @@ author_profile: true
 Invited talks
 ---
 
+ESO lunch talk\
+Invited talk: "Unveiling black hole populations on open clusters"\
+26th Mar., 2024, Garching bei München, Germany.
+
 A multi-wavelength view on globular clusters near and far: from JWST to the ELT\
 Invited talk: "Globular clusters and their black hole population in the era of gravitational-wave astronomy"\
 3rd-7th Jul. 2023, Sexten, Italy
