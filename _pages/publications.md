@@ -20,7 +20,7 @@ You can find an updated list of my pubblications in the [Astrophysics Data Syste
 2024, accepted for publication in Astronomy & Astrophysics\
 <b>Torniamenti S.</b> , Mapelli M.,  Périgois C., Arca Sedda M., Artale M. C., Dall'Amico M., Vaccaro M. P.
 
-[Impact of gas hardening on the population properties of hierarchical black hole mergers in AGN disks](https://arxiv.org/abs/2306.14679)\
+[Impact of gas hardening on the population properties of hierarchical black hole mergers in AGN disks](https://arxiv.org/abs/2311.18548)\
 2024, accepted for publication in Astronomy & Astrophysics\
 Vaccaro M. P., Mapelli M.,  Périgois C., Barone D., Artale M. C., Dall'Amico M., Iorio G., <b>Torniamenti S.</b> 
 
