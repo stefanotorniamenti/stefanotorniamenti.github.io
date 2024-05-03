@@ -13,6 +13,22 @@ You can find an updated list of my pubblications in the [Astrophysics Data Syste
 
 
 
+2024
+---
+
+[Hierarchical binary black hole mergers in globular clusters: mass function and evolution with redshift](https://arxiv.org/abs/2401.14837)\
+2024, accepted for publication in Astronomy & Astrophysics\
+<b>Torniamenti S.</b> , Mapelli M.,  Périgois C., Arca Sedda M., Artale M. C., Dall'Amico M., Vaccaro M. P.
+
+[Impact of gas hardening on the population properties of hierarchical black hole mergers in AGN disks](https://arxiv.org/abs/2306.14679)\
+2024, accepted for publication in Astronomy & Astrophysics\
+Vaccaro M. P., Mapelli M.,  Périgois C., Barone D., Artale M. C., Dall'Amico M., Iorio G., <b>Torniamenti S.</b> 
+
+[Eccentric black hole mergers via three-body interactions in young, globular, and nuclear star clusters](https://arxiv.org/abs/2303.07421)\
+2024, Astronomy & Astrophysics, 683, A186 
+Dall'Amico M., Mapelli M., <b>Torniamenti S.</b>, Arca Sedda M. 
+
+
 
 2023
 ---
