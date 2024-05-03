@@ -25,7 +25,7 @@ You can find an updated list of my pubblications in the [Astrophysics Data Syste
 Vaccaro M. P., Mapelli M.,  Périgois C., Barone D., Artale M. C., Dall'Amico M., Iorio G., <b>Torniamenti S.</b> 
 
 [Eccentric black hole mergers via three-body interactions in young, globular, and nuclear star clusters](https://arxiv.org/abs/2303.07421)\
-2024, Astronomy & Astrophysics, 683, A186 
+2024, Astronomy & Astrophysics, 683, A186\
 Dall'Amico M., Mapelli M., <b>Torniamenti S.</b>, Arca Sedda M. 
 
 
