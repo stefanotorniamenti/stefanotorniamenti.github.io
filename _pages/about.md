@@ -13,7 +13,7 @@ header:
 
 
 
-I’m a postdoctoral researcher at Heidelberg University, working on the topics of stellar dynamics, black holes, and gravitational-wave astronomy. 
+I’m a postdoctoral researcher at Heidelberg University, working on the topics of stellar dynamics, black holes and gravitational-wave astronomy. 
 I'm curious to understand how these black holes interact with their surroundings and influence the evolution of their stellar cluster. Also, I investigate the formation of gravitational waves in dense stellar environments.
 
 
