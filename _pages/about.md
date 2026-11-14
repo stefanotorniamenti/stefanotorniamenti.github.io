@@ -48,12 +48,6 @@ redirect_from:
   </a>
 </div>
 
-<section class="st-feature">
-  <p class="st-eyebrow">RESEARCH SOFTWARE</p>
-  <h2>inSpyral</h2>
-  <p>My population-synthesis framework connecting star cluster formation, orbital migration, and black hole evolution within galaxies.</p>
-  <a class="st-textlink" href="{{ '/research/' | relative_url }}#inspyral">Learn more &rarr;</a>
-</section>
 
 <p class="st-bottom-links">
   <a href="mailto:sttorniamenti@mpia.de">Email</a> <span>·</span>
