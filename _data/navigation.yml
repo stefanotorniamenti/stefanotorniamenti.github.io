@@ -1,18 +1,13 @@
-# main links links
+# Main navigation
 main:
-
   - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-  
   - title: "CV"
     url: /cv/
 
-  - title: "Links"
-    url: /links/
-  
+  - title: "Press release"
+    url: https://web.ub.edu/en/web/actualitat/w/study-hints-at-the-existence-of-the-closest-black-holes-to-earth-in-the-hyades-star-cluster
