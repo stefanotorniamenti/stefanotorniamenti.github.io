@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <section class="st-hero">
+  <div class="st-orbit-art" aria-hidden="true"><span class="st-orbit st-orbit-a"></span><span class="st-orbit st-orbit-b"></span><span class="st-orbit st-orbit-c"></span><span class="st-orbit-core"></span><span class="st-orbit-star"></span></div>
   <p class="st-eyebrow">COMPUTATIONAL &amp; THEORETICAL ASTROPHYSICS</p>
   <h1>From star clusters to black holes</h1>
   <p class="st-lead">How do black holes form and grow, and what can they reveal about the star clusters and galaxies in which they originate?</p>
