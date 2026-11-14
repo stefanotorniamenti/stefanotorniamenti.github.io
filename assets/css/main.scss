@@ -129,3 +129,9 @@
   .page__content .st-science-flow__step span:last-child { font-size:.65rem; }
   .page__content .st-science-flow__icon { width:2.45rem; height:2.45rem; font-size:1.3rem; }
 }
+
+/* Research-page video */
+.page__content .st-research-video { margin: 2.7rem 0 0; padding-top:1.5rem; border-top:1px solid var(--st-rule); }
+.page__content .st-research-video h2 { color:var(--st-navy); margin:.4rem 0 .8rem; }
+.page__content .st-galaxy-video { display:block; width:100%; height:auto; aspect-ratio:16/9; border-radius:10px; background:#0a1421; margin:1.2rem 0 .55rem; }
+.page__content .st-video-caption { font-size:.78rem; color:var(--st-muted); }
