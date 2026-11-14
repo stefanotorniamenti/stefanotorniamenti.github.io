@@ -58,3 +58,15 @@ author_profile: true
   <h2>inSpyral</h2>
   <p>I developed <strong>inSpyral</strong>, a population-synthesis framework coupling star cluster formation, orbital migration, and black hole evolution within galaxies. It enables population-level studies of these connected processes across cosmic time.</p>
 </div>
+
+
+<section class="st-research-video" aria-labelledby="galaxy-video-heading">
+  <p class="st-eyebrow">MODEL VISUALIZATION</p>
+  <h2 id="galaxy-video-heading">Star clusters and black holes across cosmic time</h2>
+  <p>A visualization of the evolution of star clusters and black holes in a growing galaxy, produced with my dynamical and population-synthesis models.</p>
+  <video class="st-galaxy-video" controls preload="metadata" playsinline poster="{{ '/assets/video/galaxy_evolution_poster.jpg' | relative_url }}">
+    <source src="{{ '/assets/video/galaxy_evolution_web.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support embedded videos.
+  </video>
+  <p class="st-video-caption">Galaxy evolution and star cluster dynamics. Select play to watch the animation.</p>
+</section>
