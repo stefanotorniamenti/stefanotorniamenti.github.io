@@ -135,3 +135,24 @@
 .page__content .st-research-video h2 { color:var(--st-navy); margin:.4rem 0 .8rem; }
 .page__content .st-galaxy-video { display:block; width:100%; height:auto; aspect-ratio:16/9; border-radius:10px; background:#0a1421; margin:1.2rem 0 .55rem; }
 .page__content .st-video-caption { font-size:.78rem; color:var(--st-muted); }
+
+
+/* Press hero and thesis links */
+.page__content .st-press-hero {
+  min-height: 320px; display:flex; align-items:flex-end;
+  border-radius:12px; overflow:hidden;
+  background-image:linear-gradient(180deg,rgba(8,19,38,.14) 0%,rgba(8,19,38,.82) 100%),url('https://web.ub.edu/documents/2710030/12627942/foratsnegresUB.jpg/80c90e32-7685-62d1-f597-5a9391e2961d?t=1694159600777');
+  background-color:#13243b; background-position:center; background-size:cover;
+}
+.page__content .st-press-hero__overlay { padding:2rem 2.15rem; color:#fff; }
+.page__content .st-press-hero .st-eyebrow { color:#d6e9f9; }
+.page__content .st-press-hero h1 { color:#fff; font-size:clamp(1.9rem,4vw,2.85rem); line-height:1.1; margin:0 0 .7rem; }
+.page__content .st-press-hero__overlay p:last-child { color:#edf4fb; margin:0; }
+.page__content .st-image-credit { text-align:right; color:var(--st-muted); font-size:.7rem; margin:.5rem 0 1.7rem; }
+.page__content .st-thesis-links { display:grid;gap:1rem;margin:1.5rem 0; }
+.page__content a.st-thesis-link { display:flex; flex-direction:column;gap:.5rem;padding:1.25rem 1.5rem;border:1px solid var(--st-rule);border-radius:11px;text-decoration:none; background:#fff; }
+.page__content a.st-thesis-link:hover { border-color:#9eb9cc;box-shadow:0 8px 18px rgba(24,49,83,.07); }
+.page__content .st-thesis-link__eyebrow { color:var(--st-blue);font-size:.72rem;font-weight:700;letter-spacing:.08em; }
+.page__content .st-thesis-link strong { color:var(--st-navy);font-size:1.06rem; }
+.page__content .st-thesis-link span:last-child { color:var(--st-muted);font-size:.82rem; }
+@media(max-width:640px){.page__content .st-press-hero{min-height:270px}.page__content .st-press-hero__overlay{padding:1.35rem}}
