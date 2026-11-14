@@ -1,25 +1,77 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "research"
+excerpt: "Research interests and projects"
 author_profile: true
-header:
-    image: 
-    caption: 
 ---
 
+<div class="st-research-intro">
+  <p class="st-eyebrow">RESEARCH OVERVIEW</p>
+  <h2>Connecting stellar systems to black hole growth</h2>
+  <p>My research explores <strong>how black holes form and grow</strong>, and what their properties reveal about the star clusters and galaxies in which they originate. I combine dynamical simulations, semi-analytic models, and population synthesis with electromagnetic and gravitational-wave observations.</p>
+</div>
 
-My research primarily focuses on the structure and evolution of stellar clusters, with special attention to their black hole population. I am mainly interested in developing theoretical and numerical models for young and open clusters to interpret their present-day state and reconstruct their formation history. With my models, I aim to explore a series of open questions:
+<div class="st-science-flow" aria-label="Research themes connecting star clusters, black holes, and galaxies">
+  <div class="st-science-flow__step">
+    <span class="st-science-flow__icon" aria-hidden="true">✦</span>
+    <strong>Star clusters</strong>
+    <span>Formation &amp; dynamics</span>
+  </div>
+  <div class="st-science-flow__step">
+    <span class="st-science-flow__icon" aria-hidden="true">◎</span>
+    <strong>Black holes</strong>
+    <span>Growth &amp; mergers</span>
+  </div>
+  <div class="st-science-flow__step">
+    <span class="st-science-flow__icon" aria-hidden="true">◌</span>
+    <strong>Galaxies</strong>
+    <span>Nuclear assembly</span>
+  </div>
+</div>
+
+<div class="st-research-section">
+  <div class="st-research-label">01 / STELLAR SYSTEMS</div>
+  <h2 id="star-cluster-dynamics">Star cluster dynamics</h2>
+  <p>The birth properties and dynamical evolution of star clusters strongly influence their stellar and black hole populations. I study how stellar evolution, binary interactions, and the initial structure of clusters shape their long-term evolution and observable properties.</p>
+</div>
+
+<div class="st-research-section">
+  <div class="st-research-label">02 / COMPACT OBJECTS</div>
+  <h2 id="black-holes-and-gravitational-waves">Black holes and gravitational waves</h2>
+  <p>Dense stellar environments can produce and transform binary black holes through dynamical interactions and hierarchical mergers. I investigate their masses, spins, and merger rates, and their connection to gravitational-wave observations.</p>
+</div>
+
+<div class="st-research-section">
+  <div class="st-research-label">03 / BLACK HOLE SEEDS</div>
+  <h2 id="intermediate-mass-black-holes">Intermediate-mass black holes</h2>
+  <p>I study whether dense stellar clusters can form intermediate-mass black holes through stellar collisions, hierarchical black hole mergers, and other growth pathways. A central question is whether these objects can contribute to massive black hole seeding.</p>
+</div>
+
+<div class="st-research-section">
+  <div class="st-research-label">04 / GALAXY EVOLUTION</div>
+  <h2 id="galactic-nuclei">Galactic nuclei</h2>
+  <p>Star clusters can migrate toward galactic centers and contribute to the assembly of nuclear star clusters. I investigate how this migration transports black holes into galactic nuclei and influences their subsequent growth.</p>
+</div>
+
+<div class="st-feature st-research-feature" id="inspyral">
+  <p class="st-eyebrow">RESEARCH SOFTWARE</p>
+  <h2>inSpyral</h2>
+  <p>I developed <strong>inSpyral</strong>, a population-synthesis framework coupling star cluster formation, orbital migration, and black hole evolution within galaxies. It enables population-level studies of these connected processes across cosmic time.</p>
+</div>
 
 
-<b>Early evolution of star cluster</b>\
-Our understanding of the star clusters is still hampered by large uncertainties, mainly connected with a poor modeling of their formation and early evolution. Star forming complexes display highly non trivial structures, characterized by sub-clustering, mergers, and rotation. It is still unclear whether the observed sub-clusters will disperse once the molecular gas is ejected, or if they will merge into larger, possibly bound clusters.
-
-<b>Formation of black holes</b>\
-Star clusters are the place where a large fraction of massive stars form, evolve, and eventually die, giving birth to populations of stellar-mass black holes. These black holes encode fundamental information on their progenitor stars, which can otherwise only be observed during their short lifetime. Finding a way to "see" these black holes in the place where they were born would offer us the an invaluable opportunity to study their formation processes.
-
-<b>Gravitatational-wave sources</b>\
-Over the last seven years, our knowledge of compact objects has drastically improved thanks to the detection gravitational waves, mainly from binary black hole mergers. These signals are now giving us the opportunity to study their sources with unprecedented precision, and, at the same time, have opened up new fundamental questions about their formation 
-
-
-
+<section class="st-research-video" aria-labelledby="galaxy-video-heading">
+  <p class="st-eyebrow">MODEL VISUALIZATION</p>
+  <h2 id="galaxy-video-heading">Star cluster migration to galactic nuclei</h2>
+  <p>A visualization of the evolution of star clusters and black holes in a growing galaxy, produced with my dynamical and population-synthesis models.</p>
+  {% assign galaxy_video = site.static_files | where: "path", "/assets/video/galaxy_evolution_web.mp4" | first %}
+  {% if galaxy_video %}
+  <video class="st-galaxy-video" controls preload="metadata" playsinline poster="{{ '/assets/video/galaxy_evolution_poster.jpg' | relative_url }}">
+    <source src="{{ '/assets/video/galaxy_evolution_web.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support embedded videos.
+  </video>
+  {% else %}
+  <div class="st-video-awaiting">Animation coming soon.</div>
+  {% endif %}
+  <p class="st-video-caption">Galaxy evolution and star cluster dynamics. Select play to watch the animation.</p>
+</section>
