@@ -11,18 +11,14 @@ redirect_from:
 <section class="st-hero">
   <div class="st-orbit-art" aria-hidden="true"><span class="st-orbit st-orbit-a"></span><span class="st-orbit st-orbit-b"></span><span class="st-orbit st-orbit-c"></span><span class="st-orbit-core"></span><span class="st-orbit-star"></span></div>
   <p class="st-eyebrow">COMPUTATIONAL &amp; THEORETICAL ASTROPHYSICS</p>
-  <h1>From star clusters to black holes</h1>
-  <p class="st-lead">How do black holes form and grow, and what can they reveal about the star clusters and galaxies in which they originate?</p>
+  <h1>Stefano Torniamenti</h1>
+  <p class="st-lead">I am an <strong>Alexander von Humboldt Research Fellow</strong> at the Max Planck Institute for Astronomy in Heidelberg, Germany. I study how black holes form and grow and what they reveal about the environment where they originate.</p>
   <div class="st-hero-links">
     <a class="st-button" href="{{ '/research/' | relative_url }}">Explore my research</a>
     <a class="st-textlink" href="{{ '/publications/' | relative_url }}">Publications &rarr;</a>
   </div>
 </section>
 
-<div class="st-intro">
-  <p>I am an <strong>Alexander von Humboldt Research Fellow</strong> at the Max Planck Institute for Astronomy in Heidelberg, Germany. My research lies at the intersection of star cluster dynamics, black hole physics, gravitational-wave astronomy, and galaxy evolution.</p>
-  <p>I combine numerical simulations, semi-analytic methods, and population-synthesis modeling to investigate the formation and growth of black holes and their connections to the evolution of stellar systems and galaxies.</p>
-</div>
 
 <h2 class="st-section-heading">Research areas</h2>
 <div class="st-cards">
