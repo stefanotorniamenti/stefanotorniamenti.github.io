@@ -64,10 +64,10 @@ author_profile: true
   <p class="st-eyebrow">MODEL VISUALIZATION</p>
   <h2 id="galaxy-video-heading">Star cluster migration to galactic nuclei</h2>
   <p>A visualization of the evolution of star clusters and black holes in a growing galaxy, produced with my dynamical and population-synthesis models.</p>
-  {% assign galaxy_video = site.static_files | where: "path", "/images/galaxy_evolution_web.mp4" | first %}
+  {% assign galaxy_video = site.static_files | where: "path", "/images/galaxy_evolution_log_dt_fixed_1.mp4" | first %}
   {% if galaxy_video %}
   <video class="st-galaxy-video" controls preload="metadata" playsinline poster="{{ '/images/galaxy_evolution_poster.jpg' | relative_url }}">
-    <source src="{{ '/images/galaxy_evolution_web.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/images/galaxy_evolution_log_dt_fixed_1.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support embedded videos.
   </video>
   {% else %}
