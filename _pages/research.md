@@ -62,7 +62,7 @@ author_profile: true
 
 <section class="st-research-video" aria-labelledby="galaxy-video-heading">
   <p class="st-eyebrow">MODEL VISUALIZATION</p>
-  <h2 id="galaxy-video-heading">Star clusters and black holes across cosmic time</h2>
+  <h2 id="galaxy-video-heading">Star cluster migration to galactic nuclei</h2>
   <p>A visualization of the evolution of star clusters and black holes in a growing galaxy, produced with my dynamical and population-synthesis models.</p>
   <video class="st-galaxy-video" controls preload="metadata" playsinline poster="{{ '/assets/video/galaxy_evolution_poster.jpg' | relative_url }}">
     <source src="{{ '/assets/video/galaxy_evolution_web.mp4' | relative_url }}" type="video/mp4">
