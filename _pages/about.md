@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: ""
-excerpt: "Computational and theoretical astrophysics"
+excerpt: "Stefano Torniamenti — astrophysicist studying star clusters, black holes, and galaxy evolution."
+description: "Stefano Torniamenti is an Alexander von Humboldt Research Fellow at the Max Planck Institute for Astronomy studying star clusters, black holes, and galaxy evolution."
 author_profile: true
 redirect_from:
   - /about/
