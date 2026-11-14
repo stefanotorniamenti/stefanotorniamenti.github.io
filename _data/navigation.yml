@@ -9,5 +9,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Press release"
-    url: https://web.ub.edu/en/web/actualitat/w/study-hints-at-the-existence-of-the-closest-black-holes-to-earth-in-the-hyades-star-cluster
+  - title: "Press"
+    url: /press/
+
+  - title: "Links"
+    url: /links/
