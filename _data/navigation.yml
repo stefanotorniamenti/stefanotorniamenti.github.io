@@ -5,13 +5,13 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/
+    url: /files/Publication_list_Torniamenti.pdf
 
   - title: "Talks"
     url: /talks/    
   
   - title: "CV"
-    url: /cv/
+    url: /files/CV_Torniamenti.pdf
 
   - title: "Links"
     url: /links/
